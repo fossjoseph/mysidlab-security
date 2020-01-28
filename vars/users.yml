@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
-    aws_groups: "sacramento, fresno, indio"
-  - name: user2
-    aws_groups: "losangeles, sanfransisco, napa"
-  - name: user3
-    aws_groups: "palmsprings, indio, sandiego"
+  - name: siduser102-deleteme-user1
+    aws_groups: "siduser102-deleteme-sacramento, siduser102-deleteme-fresno, siduser102-deleteme-indio"
+  - name: siduser102-deleteme-user2
+    aws_groups: "siduser102-deleteme-losangeles, siduser102-deleteme-sanfransisco, siduser102-deleteme-napa"
+  - name: siduser102-deleteme-user3
+    aws_groups: "siduser102-deleteme-palmsprings, siduser102-deleteme-indio, siduser102-deleteme-sandiego"
