@@ -1,10 +1,10 @@
 ---
 aws_groups:
-  - fresno
-  - sacramento
-  - losangeles
-  - sanfrancisco
-  - indio
-  - palmsprings
-  - sandiego
-  - napa
+  - siduser102-deleteme-fresno
+  - siduser102-deleteme-sacramento
+  - siduser102-deleteme-losangeles
+  - siduser102-deleteme-sanfrancisco
+  - siduser102-deleteme-indio
+  - siduser102-deleteme-palmsprings
+  - siduser102-deleteme-sandiego
+  - siduser102-deleteme-napa
